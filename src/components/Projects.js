@@ -112,7 +112,7 @@ export const Projects = () => {
                                     </div>
                                     <div style={{ display: 'flex', justifyContent: 'space-between', fontStyle: 'italic', fontWeight: '500', marginBottom: '10px' }}>
                                         <span>Store Associate</span>
-                                        <span>Sept 2021 – Sept 2022</span>
+                                        <span>Sept 2021 – Sept 2023</span>
                                     </div>
                                     <ul style={{ paddingLeft: '20px' }}>
                                         <li>Provided excellent customer service in a busy, fast-paced environment.</li>
