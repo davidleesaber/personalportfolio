@@ -6,6 +6,7 @@ import projImg2 from '../assets/img/MLFood.png';
 import projImg3 from '../assets/img/f8.png';
 import projImg4 from '../assets/img/nba2.png';
 import projImg5 from '../assets/img/anime.png';
+import projImg6 from '../assets/img/reactjango.png'
 import TrackVisibility from "react-on-screen";
 import 'animate.css/animate.min.css';
 
@@ -46,6 +47,16 @@ export const Projects = () => {
             ),
             imgUrl: projImg4,
             repoUrl:"https://github.com/davidleesaber/NBA-Salary-Analysis",
+        },
+                {
+            title: "React Django Full Stack Project",
+            description: (
+                <>
+                A full-stack web application built with <strong>Django</strong>, <strong>React</strong>, and <strong>PostgreSQL</strong>, featuring secure <strong>JWT authentication</strong> and persistent note management. Deployed on <strong>Choreo Cloud</strong>, it provides <strong>user registration</strong>, <strong>login</strong>, and <strong>logout</strong>, with protected <strong>API routes</strong>, 404 handling, and a <strong>responsive UI</strong>.
+                </>
+            ),
+            imgUrl: projImg6,
+            repoUrl:"https://github.com/davidleesaber/Django-React-Full-Stack",
         },
      ];
     return (
