@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personalportfolio/static/css/main.cb972cee.css",
-    "main.js": "/personalportfolio/static/js/main.ad71d084.js",
+    "main.js": "/personalportfolio/static/js/main.ff9816b5.js",
     "static/js/453.052877a7.chunk.js": "/personalportfolio/static/js/453.052877a7.chunk.js",
     "static/media/MLFood.png": "/personalportfolio/static/media/MLFood.549aecdd9fd7e3811562.png",
     "static/media/anime.png": "/personalportfolio/static/media/anime.f04331280fb9592e81e8.png",
@@ -9,6 +9,7 @@
     "static/media/color-sharp2.png": "/personalportfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/f8.png": "/personalportfolio/static/media/f8.f53701d37093dbd4f2af.png",
     "static/media/banner-bg.png": "/personalportfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/reactjango.png": "/personalportfolio/static/media/reactjango.122b29b4595718a206e6.png",
     "static/media/header-img.svg": "/personalportfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/sql.png": "/personalportfolio/static/media/sql.85fb38d6773862e917f4.png",
     "static/media/CentraNo2-Bold.ttf": "/personalportfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -29,11 +30,11 @@
     "index.html": "/personalportfolio/index.html",
     "static/media/nav-icon1.svg": "/personalportfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.cb972cee.css.map": "/personalportfolio/static/css/main.cb972cee.css.map",
-    "main.ad71d084.js.map": "/personalportfolio/static/js/main.ad71d084.js.map",
+    "main.ff9816b5.js.map": "/personalportfolio/static/js/main.ff9816b5.js.map",
     "453.052877a7.chunk.js.map": "/personalportfolio/static/js/453.052877a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb972cee.css",
-    "static/js/main.ad71d084.js"
+    "static/js/main.ff9816b5.js"
   ]
 }
